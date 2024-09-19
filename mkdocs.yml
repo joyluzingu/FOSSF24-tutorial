@@ -1,7 +1,7 @@
 site_name: Joy Luzingu's FOSS 24 Tutorial Website
 site_description: This is a website sister to the FOSS 24 workshop
 site_author: Joy Luzingu
-site_url: 'https://foss.cyverse.org'
+site_url: 'https://joyluzingu.github.io/FOSSF24-tutorial/'
 
 # Repository
 repo_name: FOSSF24-tutorial
@@ -51,7 +51,6 @@ icon:
 # Page tree
 nav:
 - Home: index.md
-- CV: 
 - DMP: dmp.md
 
 # Extra Plugins
