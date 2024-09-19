@@ -5,7 +5,7 @@ site_url: 'https://joyluzingu.github.io/FOSSF24-tutorial/'
 
 # Repository
 repo_name: FOSSF24-tutorial
-repo_url: 'https://github.com/joyluzingu/FOSSF24-tutorial/edit/main/mkdocs.yml'
+repo_url: 'https://github.com/joyluzingu/FOSSF24-tutorial'
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 - 2025'
