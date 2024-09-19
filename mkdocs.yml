@@ -1,14 +1,14 @@
-site_name: Name of your website
-site_description: Tell people what this website is about
-site_author: Who you are
+site_name: Joy Luzingu's FOSS 24 Tutorial Website
+site_description: This is a website sister to the FOSS 24 workshop
+site_author: Joy Luzingu
 site_url: 'https://foss.cyverse.org'
 
 # Repository
-repo_name: The repository name
-repo_url: 'https://github.com/CyVerse-learning-materials/foss'
+repo_name: FOSSF24-tutorial
+repo_url: 'https://github.com/joyluzingu/FOSSF24-tutorial/edit/main/mkdocs.yml'
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 - 2024'
+copyright: 'Copyright &copy; 2024 - 2025'
 
 
 # Configuration
@@ -51,6 +51,8 @@ icon:
 # Page tree
 nav:
 - Home: index.md
+- CV: 
+- DMP: dmp.md
 
 # Extra Plugins
 plugins:
